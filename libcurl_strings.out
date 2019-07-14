@@ -1,0 +1,1200 @@
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+__cxa_finalize
+__deregister_frame_info
+__register_frame_info
+memchr
+strchr
+fstat64
+curl_msnprintf
+lseek64
+clock_gettime
+gettimeofday
+strlen
+tolower
+inet_ntop
+sscanf
+memcpy
+strtoul
+strcpy
+curl_mfprintf
+fflush
+curl_mime_name
+curl_formadd
+curl_formfree
+curl_mime_init
+curl_mime_subparts
+curl_mime_addpart
+curl_mime_headers
+strcmp
+curl_mime_data_cb
+curl_mime_type
+curl_mime_filedata
+curl_mime_filename
+curl_mime_data
+stdin
+fseek
+fread
+curl_formget
+memmove
+curl_maprintf
+inet_pton
+strrchr
+curl_getdate
+strncmp
+strtok_r
+qsort
+fclose
+fopen64
+curl_strnequal
+curl_slist_free_all
+fputs
+stdout
+curl_mvaprintf
+curl_url_dup
+curl_url_set
+curl_url_cleanup
+curl_url_get
+strstr
+__errno_location
+fwrite
+curl_mvsnprintf
+memcmp
+curl_easy_strerror
+memset
+getsockname
+strncpy
+listen
+accept
+strtol
+if_nametoindex
+curl_url
+stderr
+curl_multi_remove_handle
+curl_multi_cleanup
+curl_getenv
+getifaddrs
+freeifaddrs
+curl_version
+zlibVersion
+curl_version_info
+curl_easy_escape
+curl_escape
+curl_easy_unescape
+curl_unescape
+curl_free
+curl_msprintf
+curl_mprintf
+fputc
+curl_mvsprintf
+curl_mvprintf
+curl_mvfprintf
+curl_slist_append
+fileno
+geteuid
+getpwuid_r
+fgets
+curl_strequal
+realloc
+strdup
+calloc
+sigaction
+curl_global_init
+curl_global_init_mem
+curl_global_cleanup
+curl_easy_init
+curl_easy_perform
+curl_multi_setopt
+curl_multi_add_handle
+curl_multi_timeout
+curl_multi_perform
+curl_multi_info_read
+curl_easy_cleanup
+curl_easy_getinfo
+curl_easy_duphandle
+curl_easy_reset
+curl_easy_pause
+curl_easy_recv
+curl_easy_send
+curl_easy_upkeep
+fnmatch
+getsockopt
+getpeername
+setsockopt
+curl_multi_init
+curl_multi_fdset
+curl_multi_wait
+curl_multi_socket
+curl_multi_socket_action
+curl_multi_socket_all
+curl_multi_assign
+inflateInit2_
+inflateEnd
+inflateInit_
+inflate
+curl_share_init
+curl_share_setopt
+curl_share_cleanup
+MD5_Init
+MD5_Update
+MD5_Final
+strtoll
+curl_multi_strerror
+curl_share_strerror
+__xpg_strerror_r
+gmtime_r
+sendto
+recvfrom
+getaddrinfo
+freeaddrinfo
+fcntl64
+pthread_create
+pthread_detach
+pthread_join
+gethostname
+pthread_mutex_destroy
+pthread_mutex_lock
+pthread_mutex_unlock
+pthread_mutex_init
+DES_set_odd_parity
+DES_set_key
+DES_ecb_encrypt
+MD4_Init
+MD4_Update
+MD4_Final
+curl_pushheader_bynum
+curl_pushheader_byname
+getpid
+curl_mime_free
+access
+__xpg_basename
+curl_mime_encoder
+SHA256_Init
+SHA256_Update
+SHA256_Final
+curl_easy_setopt
+strcspn
+strspn
+strpbrk
+EVP_MD_CTX_new
+EVP_sha256
+EVP_DigestInit_ex
+EVP_DigestUpdate
+EVP_DigestFinal_ex
+EVP_MD_CTX_free
+EVP_md5
+ENGINE_get_first
+ENGINE_get_id
+ENGINE_get_next
+ENGINE_finish
+ENGINE_free
+ENGINE_by_id
+ENGINE_init
+ERR_get_error
+ERR_error_string_n
+SSL_SESSION_free
+ERR_clear_error
+SSL_read
+SSL_get_error
+SSL_alert_desc_string_long
+UI_get_string_type
+UI_get0_user_data
+UI_get_input_flags
+UI_OpenSSL
+UI_method_get_writer
+UI_method_get_reader
+UI_set_result
+CRYPTO_get_ex_new_index
+SSL_get_ex_data
+SSL_connect
+SSL_get_verify_result
+X509_verify_cert_error_string
+SSL_get0_alpn_selected
+BN_print
+BIO_ctrl
+SSL_pending
+SSL_shutdown
+SSL_get_shutdown
+SSL_free
+OpenSSL_version_num
+SSL_write
+OPENSSL_load_builtin_modules
+ENGINE_load_builtin_engines
+CONF_modules_load_file
+setvbuf
+ENGINE_set_default
+SSL_set_connect_state
+SSL_CTX_free
+BIO_s_mem
+BIO_new
+X509_NAME_print_ex
+BIO_free
+SSL_get_peer_cert_chain
+OPENSSL_sk_num
+SSL_get_peer_certificate
+OPENSSL_sk_value
+X509_get_subject_name
+X509_get_issuer_name
+X509_get_version
+BIO_printf
+X509_get_serialNumber
+BIO_puts
+ASN1_STRING_new
+X509_get0_signature
+X509_signature_print
+ASN1_STRING_free
+i2a_ASN1_OBJECT
+X509_get0_extensions
+X509_get0_notBefore
+ASN1_TIME_print
+X509_get0_notAfter
+X509_get_pubkey
+EVP_PKEY_id
+EVP_PKEY_get0_RSA
+RSA_get0_key
+EVP_PKEY_free
+PEM_write_bio_X509
+X509_EXTENSION_get_object
+i2t_ASN1_OBJECT
+X509V3_EXT_print
+X509_EXTENSION_get_data
+ASN1_STRING_print
+EVP_PKEY_get0_DSA
+DSA_get0_pqg
+DSA_get0_key
+EVP_PKEY_get0_DH
+DH_get0_pqg
+DH_get0_key
+X509_get_ext_d2i
+GENERAL_NAMES_free
+X509_free
+ASN1_STRING_get0_data
+ASN1_STRING_length
+CRYPTO_free
+X509_NAME_get_index_by_NID
+X509_NAME_get_entry
+X509_NAME_ENTRY_get_data
+ASN1_STRING_type
+CRYPTO_malloc
+ASN1_STRING_to_UTF8
+BIO_s_file
+PEM_read_bio_X509
+X509_check_issued
+SSL_ctrl
+d2i_OCSP_RESPONSE
+OCSP_response_status
+OCSP_response_status_str
+OCSP_RESPONSE_free
+OCSP_response_get1_basic
+SSL_CTX_get_cert_store
+OCSP_basic_verify
+OCSP_resp_count
+OCSP_BASICRESP_free
+OCSP_resp_get0
+OCSP_single_get0_status
+OCSP_check_validity
+OCSP_crl_reason_str
+X509_get_X509_PUBKEY
+i2d_X509_PUBKEY
+RAND_add
+RAND_status
+RAND_file_name
+RAND_load_file
+RAND_bytes
+TLS_client_method
+SSL_CTX_new
+ERR_peek_error
+SSL_CTX_ctrl
+SSL_CTX_set_msg_callback
+SSL_CTX_set_options
+SSL_CTX_set_next_proto_select_cb
+SSL_CTX_set_alpn_protos
+SSL_CTX_set_default_passwd_cb_userdata
+SSL_CTX_set_default_passwd_cb
+SSL_CTX_use_certificate_chain_file
+SSL_CTX_use_certificate_file
+ENGINE_ctrl
+ENGINE_ctrl_cmd
+SSL_CTX_use_certificate
+d2i_PKCS12_bio
+PKCS12_PBE_add
+PKCS12_parse
+PKCS12_free
+SSL_CTX_use_PrivateKey
+OPENSSL_sk_pop_free
+SSL_CTX_use_PrivateKey_file
+SSL_CTX_check_private_key
+OPENSSL_sk_pop
+SSL_CTX_add_client_CA
+UI_create_method
+UI_method_get_opener
+UI_method_set_opener
+UI_method_get_closer
+UI_method_set_closer
+UI_method_set_reader
+UI_method_set_writer
+ENGINE_load_private_key
+UI_destroy_method
+SSL_new
+SSL_get_certificate
+SSL_get_privatekey
+EVP_PKEY_copy_parameters
+EVP_PKEY_get1_RSA
+RSA_flags
+RSA_free
+SSL_CTX_set_ciphersuites
+SSL_CTX_set_cipher_list
+SSL_CTX_set_post_handshake_auth
+SSL_CTX_set_srp_username
+SSL_CTX_set_srp_password
+SSL_CTX_load_verify_locations
+X509_LOOKUP_file
+X509_STORE_add_lookup
+X509_load_crl_file
+X509_STORE_set_flags
+SSL_CTX_set_verify
+SSL_CTX_set_keylog_callback
+SSL_CTX_sess_set_new_cb
+SSL_set_ex_data
+SSL_set_session
+BIO_f_ssl
+SSL_set_bio
+SSL_set_fd
+ftell
+curl_global_sslset
+libssl.so.1.1
+libcrypto.so.1.1
+libz.so.1
+raise
+libc.so.0
+libcurl.so.4
+OPENSSL_1_1_0
+OPENSSL_1_1_1
+@@p@-
+!1C "
+Couldn't open file %s
+Can't open %s for writing
+Can't get the size of %s
+Content-Length: %lld
+Accept-ranges: bytes
+Last-Modified: %s, %02d %s %4d %02d:%02d:%02d GMT
+Can't get the size of file.
+failed to resume file:// transfer
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_
+%c%c==
+%c%c%c=
+%255[^:]:%d
+--:--:--
+%2lld:%02lld:%02lld
+%3lldd %02lldh
+%7lldd
+%5lld
+%4lldk
+%2lld.%0lldM
+%4lldM
+%2lld.%0lldG
+%4lldG
+%4lldT
+%4lldP
+Callback aborted
+** Resuming transfer from byte position %lld
+  %% Total    %% Received %% Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+%3lld %s  %3lld %s  %3lld %s  %s  %s %s %s %s %s
+application/octet-stream
+multipart/form-data
+#HttpOnly_
+FALSE
+%s%s%s	%s	%s	%s	%lld	%s	%s
+%4095[^;
+=] =%4095[^;
+__Secure-
+__Host-
+secure
+httponly
+domain
+localhost
+version
+max-age
+expires
+Set-Cookie:
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/docs/http-cookies.html
+# This file was generated by libcurl! Edit at your own risk.
+# Fatal libcurl error
+Rejected %zu bytes header (max is %d)!
+Failed to alloc memory for big header!
+HTTP/
+RTSP/
+Proxy-
+Basic
+Digest
+Bearer
+Proxy-authorization
+Authorization
+%sAuthorization: Basic %s
+Authorization:
+Authorization: Bearer %s
+The requested URL returned error: %d
+Empty reply from server
+PROXY %s %s %s %li %li
+Expect
+100-continue
+Expect:
+Expect: 100-continue
+Host:
+Content-Type:
+Content-Length:
+Transfer-Encoding:
+If-Modified-Since
+If-Unmodified-Since
+Last-Modified
+Invalid TIMEVALUE
+%s: %s, %02d %s %4d %02d:%02d:%02d GMT
+OPTIONS
+Transfer-Encoding: chunked
+Accept: */*
+Proxy-Connection: Keep-Alive
+User-Agent
+%s?%s
+Referer
+Referer: %s
+Cookie
+Accept-Encoding
+Accept-Encoding: %s
+Connection: %s%sTE
+TE: gzip
+Content-Type
+chunked
+Chunky upload is not supported by HTTP 1.0
+Host:%s
+Host: %s%s%s
+Host: %s%s%s:%d
+;type=
+;type=%c
+Accept
+Could not seek stream
+Could only read %lld bytes from the input
+File already completely uploaded
+Range: bytes=%s
+Content-Range
+Content-Range: bytes 0-%lld/%lld
+Content-Range: bytes %s%lld/%lld
+Content-Range: bytes %s/%lld
+ftp://%s:%s@%s
+Proxy-Connection
+%s HTTP/%s
+%s%s%s%s%s%s%s%s%s%s%s
+Cookie: 
+%s%s=%s
+Content-Length
+Failed sending PUT request
+Content-Length: 0
+Failed sending POST request
+Content-Type: application/x-www-form-urlencoded
+Failed sending HTTP POST request
+Failed sending HTTP request
+Received HTTP/0.9 when not allowed
+ HTTP/%1d.%1d%c%3d
+ HTTP/2 %d
+ HTTP %3d
+ RTSP/%1d.%1d%c%3d
+The requested URL returned error: %s
+Maximum file size exceeded
+Invalid Content-Length: value
+keep-alive
+Proxy-Connection:
+close
+Content-Encoding:
+Content-Range:
+Last-Modified:
+WWW-Authenticate:
+Proxy-authenticate:
+Location:
+Unsupported HTTP version in response
+HTTPS
+Send failure: %s
+Recv failure: %s
+Write callback asked for PAUSE when not supported!
+Failed writing body (%zu != %zu)
+Failed writing header
+Accept-ranges: bytes
+USER %s
+Failure sending QUIT command: %s
+Offset (%lld) was beyond file size (%lld)
+REST %lld
+APPE %s
+SIZE %s
+Failed to read data
+getsockname() failed: %s
+failed to resolve the address provided to PORT: %s
+bind(port=%hu) failed: %s
+socket failure: %s
+%s |%d|%s|%hu|
+Failure sending EPRT command: %s
+,%d,%d
+Failure sending PORT command: %s
+bind() failed, we ran out of ports!
+Error accept()ing server connect
+no memory
+Uploading to a URL without a file name!
+PBSZ %d
+PASS %s
+ACCT %s
+ACCT requested but none available
+Access denied: %03d
+Failed EPSV attempt, exiting
+REST %d
+MDTM %s
+CWD %s
+PRET %s
+PRET STOR %s
+PRET RETR %s
+Couldn't set desired mode
+TYPE %c
+FTP response aborted due to select/poll error: %d
+Accept timeout occurred while waiting server connect
+Error while waiting for server connect
+Got a %03d ftp-server response when 220 was expected
+unsupported parameter to CURLOPT_FTPSSLAUTH: %d
+AUTH %s
+ACCT rejected by server: %03d
+PROT %c
+Failed to clear the command channel (CCC)
+OS/400
+SITE NAMEFMT 1
+QUOT command failed with %03d
+MKD %s
+Server denied you to change to the given directory
+Failed to MKD dir: %03d
+%04d%02d%02d%02d%02d%02d
+%04d%02d%02d %02d:%02d:%02d GMT
+Last-Modified: %s, %02d %s %4d %02d:%02d:%02d GMT
+Given file does not exist
+Couldn't use REST
+PRET command not accepted: %03d
+%c%c%c%u%c
+Illegal port number in EPSV reply
+Weirdly formatted EPSV reply
+%u,%u,%u,%u,%u,%u
+Couldn't interpret the 227-response
+%u.%u.%u.%u
+Bad PASV/EPSV response: %03d
+Can't resolve proxy host %s:%hu
+Can't resolve new host %s:%hu
+Failed to do PORT
+RETR response: %03d
+Failed FTP upload: %0d
+Failure sending ABOR command: %s
+control connection looks dead
+server did not report OK, got %d
+Uploaded unaligned file size (%lld out of %lld bytes)
+Received only partial file: %lld bytes
+No data was received!
+QUOT string not accepted: %s
+C%lld-
+https
+socks5h
+socks5
+socks4a
+socks4
+socks
+Unsupported proxy scheme for '%s'
+Unsupported proxy syntax in '%s'
+Unsupported proxy '%s', libcurl is built without the HTTPS-proxy support.
+/etc/ssl/certs
+unknown proxytype option given
+User-Agent: %s
+ftp@example.com
+anonymous
+%s://%s
+Protocol "%s" not supported or disabled in libcurl
+memory shortage
+no_proxy
+NO_PROXY
+http_proxy
+all_proxy
+ALL_PROXY
+Unix socket path too long: '%s'
+Couldn't resolve host '%s'
+Couldn't resolve proxy '%s'
+<no protocol>
+default
+/MATCH:
+/FIND:
+CLIENT libcurl 7.65.1
+MATCH %s %s %s
+Failed sending DICT request
+/DEFINE:
+/LOOKUP:
+CLIENT libcurl 7.65.1
+DEFINE %s %s
+CLIENT libcurl 7.65.1
+Operation too slow. Less than %ld bytes/sec transferred the last %ld seconds
+libcurl/7.65.1
+ zlib/%s
+arm-buildroot-linux-uclibcgnueabi
+gopher
+imaps
+pop3s
+smtps
+telnet
+%%%02X
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+(nil)
+(nil)
+USER,%s
+%127[^= ]%*[ =]%255s
+TTYPE
+XDISPLOC
+NEW_ENV
+%hu%*[xX]%hu
+Syntax error in telnet option: %s
+BINARY
+Unknown telnet option %s
+Sending data failed (%d)
+%c%c%c%c%s%c%c
+%127[^,],%127s
+%c%s%c%s
+Time-out
+TELNET
+machine
+login
+.netrc
+Unable to allocate trailing headers buffer !
+operation aborted by trailing headers callback
+operation aborted by callback
+Read callback asked for PAUSE when not supported!
+read function returned funny value
+%zx%s
+Cannot rewind mime/post data
+seek callback returned error %d
+ioctl callback returned error %d
+necessary data rewind wasn't possible
+select/poll returned error
+HTTP server doesn't seem to support byte ranges. Cannot resume.
+Failed writing data
+%s in chunked-encoding
+Failed to alloc scratch buffer!
+Operation timed out after %d milliseconds with %lld out of %lld bytes received
+Operation timed out after %d milliseconds with %lld bytes received
+transfer closed with %lld bytes remaining to read
+transfer closed with outstanding read data remaining
+No URL set!
+Maximum (%ld) redirects followed
+CONNECT_ONLY is required!
+Failed to get recent socket
+easy handle already used in multi handle
+total 
+rwx-tTsS
+0123456789-
+APM0123456789:
+<DIR>
+Too long hexadecimal number
+Illegal or missing hexadecimal sequence
+Malformed encoding found
+Write error
+Bad content-encoding found
+Out of memory
+getpeername() failed with errno %d: %s
+getsockname() failed with errno %d: %s
+ssrem inet_ntop() failed with errno %d: %s
+ssloc inet_ntop() failed with errno %d: %s
+sa_addr inet_ntop() failed with errno %d: %s
+host!
+Couldn't bind to interface '%s'
+Couldn't bind to '%s'
+bind failed with errno %d: %s
+Connection time-out
+Failed to connect to %s port %ld: %s
+Connection #%ld to host %s left intact
+In state %d with no conn, bail out!
+Resolving timed out after %d milliseconds
+Connection timed out after %d milliseconds
+Error while processing content unencoding: %s
+Error while processing content unencoding: Unknown failure within decompression software.
+1.2.0.4
+1.2.11
+identity
+Unrecognized content encoding type. libcurl understands %s content encodings.
+x-gzip
+deflate
+%sAuthorization: Digest %s
+No error
+Error
+Unknown error %d
+%31[ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]
+%02d:%02d:%02d%n
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+bind() failed; %s
+;mode=
+tftp_tx: giving up waiting for block %d ack
+tftp_tx: internal error, event: %i
+tftp_rx: internal error
+octet
+netascii
+TFTP file name too long
+%s%c%s%c
+tsize
+blksize
+tftp_send_first: internal error
+Internal state machine error
+TFTP response timeout
+Received too short packet
+Malformed ACK packet, rejecting
+invalid blocksize value in OACK packet
+blksize is larger than max supported
+blksize is smaller than min supported
+server requested blksize larger than allocated
+invalid tsize -:%s:- value in OACK packet
+Internal error: Unexpected packet
+Failed to resolve "%s" for SOCKS4 connect.
+SOCKS4 connection to %s not supported
+Too long SOCKS proxy name, can't use!
+Failed to send SOCKS4 connect request.
+Failed to receive SOCKS4 connect request ack.
+SOCKS4 reply has wrong version, version should be 0.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected or failed.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because SOCKS server cannot connect to identd on the client.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because the client program and identd report different user-ids.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), Unknown.
+SOCKS5: no connection here
+SOCKS5: connection timeout
+SOCKS5: error occurred during connection
+Unable to send initial SOCKS5 request.
+SOCKS5 nothing to read
+SOCKS5 read timeout
+SOCKS5 read error occurred
+Unable to receive initial SOCKS5 response.
+Received invalid version in initial SOCKS5 response.
+Excessive user name length for proxy auth
+Excessive password length for proxy auth
+Failed to send SOCKS5 sub-negotiation request.
+Unable to receive SOCKS5 sub-negotiation response.
+User was rejected by the SOCKS5 server (%d %d).
+SOCKS5 GSSAPI per-message authentication is not supported.
+No authentication method was acceptable. (It is quite likely that the SOCKS5 server wanted a username/password, since none was supplied to the server on this connection.)
+No authentication method was acceptable.
+Undocumented SOCKS5 mode attempted to be used by server.
+Failed to resolve "%s" for SOCKS5 connect.
+SOCKS5 connection to %s not supported
+Failed to send SOCKS5 connect request.
+Failed to receive SOCKS5 connect request ack.
+SOCKS5 reply has wrong version, version should be 5.
+Can't complete SOCKS5 connection to %d.%d.%d.%d:%d. (%d)
+Can't complete SOCKS5 connection to %s:%d. (%d)
+Can't complete SOCKS5 connection to %02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%d. (%d)
+%c%03d
+(){ %*]
+LIST "%s" *
+Cannot SEARCH without a query string.
+SEARCH %s
+UID FETCH %s BODY[%s]<%s>
+UID FETCH %s BODY[%s]
+Cannot FETCH without a UID.
+PREAUTH
+CAPABILITY
+STORE
+SELECT
+FETCH
+EXAMINE
+SEARCH
+EXPUNGE
+Unexpected continuation response
+AUTHENTICATE %s %s
+AUTHENTICATE %s
+LOGIN %s %s
+AUTH=
+UIDVALIDITY
+MAILINDEX
+SECTION
+PARTIAL
+Cannot APPEND without a mailbox.
+Mime-Version
+Mime-Version: 1.0
+Cannot APPEND with unknown input file size
+APPEND %s (\Seen) {%lld}
+Cannot SELECT without a mailbox.
+SELECT %s
+Got unexpected imap-server response
+STARTTLS
+LOGINDISABLED
+SASL-IR
+STARTTLS not supported.
+STARTTLS denied
+Authentication cancelled
+Access denied. %c
+OK [UIDVALIDITY %19[0123456789]]
+Mailbox UIDVALIDITY has changed
+Select failed
+Failed to parse FETCH response.
+LOGOUT
+IMAPS
+AUTH %s %s
+APOP %s %s
++APOP
+Got unexpected pop3-server response
+SASL 
+STLS not supported.
+Authentication failed: %d
+POP3S
+RCPT TO:%s
+RCPT TO:<%s>
+MAIL FROM:%s
+MAIL FROM:%s AUTH=%s
+MAIL FROM:%s AUTH=%s SIZE=%s
+MAIL FROM:%s SIZE=%s
+EHLO %s
+Got unexpected smtp-server response: %d
+HELO %s
+Remote access denied: %d
+AUTH 
+STARTTLS denied, code %d
+Command failed: %d
+MAIL failed: %d
+RCPT failed: %d
+DATA failed: %d
+SMTPS
+cached response data too big to handle
+response reading failed
+server response timeout
+select/poll error
+The CSeq of this request %ld did not match the response %ld
+Accept: application/sdp
+RECORD
+SET_PARAMETER
+GET_PARAMETER
+TEARDOWN
+PAUSE
+SETUP
+ANNOUNCE
+DESCRIBE
+Got invalid RTSP request
+Got invalid RTSP request: RTSPREQ_LAST
+Refusing to issue an RTSP request [%s] without a session ID.
+Transport
+Transport: %s
+Refusing to issue an RTSP SETUP without a Transport: header.
+Range: %s
+CSeq cannot be set as a custom header.
+Session
+Session ID cannot be set as a custom header.
+%s %s RTSP/1.0
+CSeq: %ld
+Session: %s
+Content-Type: text/parameters
+Content-Type: application/sdp
+Failed sending RTSP request
+Cannot pause RTP
+Failed writing RTP data
+Got an error writing an RTP packet
+CSeq:
+: %ld
+Unable to read the CSeq header: [%s]
+Session:
+Got a blank Session ID
+Got RTSP Session ID Line [%s], but wanted ID [%s]
+6\Failed sending Gopher request
+GOPHER
+%s%s%s:%d
+Host: %s
+CONNECT %s HTTP/%s
+%s%s%s%s
+Failed sending CONNECT to proxy
+Proxy CONNECT aborted due to timeout
+CONNECT response too large!
+Proxy CONNECT aborted
+HTTP/1.%d %d
+Received HTTP code %d from proxy after CONNECT
+Could not resolve %s: %s
+getaddrinfo() thread failed to start
+%sAuthorization: NTLM %s
+KGS!@#$%EXTERNAL
+DIGEST-MD5
+CRAM-MD5
+OAUTHBEARER
+XOAUTH2
+PLAIN
+LOGIN
+Unsupported SASL authentication mechanism
+GSSAPI
+/dev/urandom
+0123456789abcdef
+%ld%s
+NT LM 0.12
+?????
+Invalid input packet
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+0123456789ABCDEF
+Can't add itself as a subpart!
+multipart/mixed
+; filename="
+; name="
+; boundary=
+attachment
+text/plain
+Content-Disposition
+Content-Transfer-Encoding
+multipart/
+Content-Disposition: %s%s%s%s%s%s%s
+Content-Type: %s%s%s
+Content-Transfer-Encoding: %s
+image/gif
+image/jpeg
+.jpeg
+image/png
+image/svg+xml
+text/html
+.html
+application/pdf
+application/xml
+binary
+base64
+quoted-printable
+FLUSH
+RELOAD
+CURLOPT_SSL_VERIFYHOST no longer supports 1 as value!
+         (((((                  
+AAAAAA
+BBBBBB
+ Failed to encode DOH packet [%d]
+%s?dns=%s
+Content-Type: application/dns-message
+Could not DOH-resolve: %s
+0123456789abcdefABCDEF::.
+localhost/
+127.0.0.1/
+dict.
+ldap.
+imap.
+smtp.
+pop3.
+[%*45[0123456789abcdefABCDEF:.]%c%n
+%*[^]]%c%n
+file://%s%s%s
+%%25%s]
+%s://%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s
+%%%02x
+%s/%s@%s
+%s/%s
+%s %02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x
+auth-int
+%s:%s:%08x:%s:%s:%s
+username="%s", realm="%s", nonce="%s", uri="%s", cnonce="%s", nc=%08x, qop=%s, response="%s"
+username="%s", realm="%s", nonce="%s", uri="%s", response="%s"
+%s, opaque="%s"
+%s, algorithm="%s"
+%s, userhash=true
+nonce="
+realm="
+algorithm=
+qop="
+md5-sess
+auth-conf
+username="%s",realm="%s",nonce="%s",cnonce="%s",nc="%s",digest-uri="%s",response=%s,qop=%s
+00000001
+AUTHENTICATE
+nonce
+stale
+realm
+opaque
+algorithm
+MD5-sess
+SHA-256
+SHA-256-SESS
+SHA-512-256
+SHA-512-256-SESS
+userhash
+NTLMSSP
+NTLMSSP%c
+%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%s%s
+NTLMSSP%c
+%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c
+incoming NTLM message too big
+user + domain + host name too big
+n,a=%s,
+host=%s
+auth=Bearer %s
+n,a=%s,
+host=%s
+port=%ld
+auth=Bearer %s
+user=%s
+auth=Bearer %s
+SSL_ERROR_NONE
+SSL_ERROR_SSL
+SSL_ERROR_WANT_READ
+SSL_ERROR_WANT_WRITE
+SSL_ERROR_WANT_X509_LOOKUP
+SSL_ERROR_SYSCALL
+SSL_ERROR_ZERO_RETURN
+SSL_ERROR_WANT_CONNECT
+SSL_ERROR_WANT_ACCEPT
+SSL_ERROR_WANT_ASYNC
+SSL_ERROR_WANT_ASYNC_JOB
+SSL_ERROR unknown
+SSL Engine '%s' not found
+Failed to initialise SSL Engine '%s':
+OpenSSL SSL_read: %s, errno %d
+SSLv2
+SSLv3
+TLSv1.0
+TLSv1.1
+TLSv1.2
+TLSv1.3
+TLS change cipher
+TLS Unknown
+TLS alert
+Change cipher spec
+Client hello
+Hello request
+Message hash
+Next protocol
+Key update
+End of early data
+Encrypted Extensions
+Certificate Status
+Finished
+CERT verify
+Server finished
+Request CERT
+Client key exchange
+Server key exchange
+Certificate
+Newsession Ticket
+Server hello
+TLS handshake
+TLS app data
+TLS header
+%s (%s), %s, %s (%d):
+failed to store ssl session
+SSL certificate problem: %s
+SSL certificate verification failed
+OpenSSL SSL_connect: %s in connection to %s:%ld 
+http/1.1
+%s(%s)
+OpenSSL SSL_read on shutdown: %s, errno %d
+SSL shutdown timeout
+select/poll on SSL socket, errno: %d
+OpenSSL
+%s/%lx.%lx.%lx%s
+SSL_write() returned SYSCALL, errno = %d
+Error: %s does not support double SSL tunneling.
+SSL_write() error: %s
+OpenSSL SSL_write: %s, errno %d
+SSLKEYLOGFILE
+set default crypto engine '%s' failed
+Subject
+Issuer
+Serial Number
+Public Key Algorithm
+Start date
+Expire date
+RSA Public Key
+pub_key
+%02x:
+Signature
+SSL: couldn't get peer certificate!
+SSL: no alternative certificate subject name matches target host name '%s'
+vtls/openssl.c
+SSL: illegal cert name field
+SSL: unable to obtain common name from peer certificate
+SSL: certificate subject name '%s' does not match target host name '%s'
+SSL: couldn't get X509-issuer name!
+BIO_new return NULL, OpenSSL error %s
+SSL: Unable to open issuer cert (%s)
+SSL: Unable to read issuer cert (%s)
+SSL: Certificate issuer check failed (%s)
+SSL certificate verify result: %s (%ld)
+No OCSP response received
+Invalid OCSP response
+Invalid OCSP response status: %s (%d)
+OCSP response verification failed
+OCSP response has expired
+SSL certificate revocation reason: %s (%d)
+SSL: public key does not match pinned public key!
+OpenSSL was built without SSLv2 support
+OpenSSL was built without SSLv3 support
+Unrecognized parameter passed via CURLOPT_SSLVERSION
+SSL: couldn't create a context: %s
+could not load PEM client certificate, OpenSSL error %s, (no key found, wrong pass phrase, or wrong file format?)
+could not load ASN1 client certificate, OpenSSL error %s, (no key found, wrong pass phrase, or wrong file format?)
+pkcs11:
+pkcs11
+LOAD_CERT_CTRL
+ssl engine does not support loading certificates
+ssl engine cannot load client cert with id '%s' [%s]
+ssl engine didn't initialized the certificate properly.
+unable to set client certificate
+crypto engine not set, can't load certificate
+could not open PKCS12 file '%s'
+error reading PKCS12 file '%s'
+could not parse PKCS12 file, check password, OpenSSL error %s
+could not load PKCS12 client certificate, OpenSSL error %s
+unable to use private key from PKCS12 file '%s'
+private key from PKCS12 file '%s' does not match certificate in same file
+cannot add certificate to client CA list
+cannot add certificate to certificate chain
+not supported file type '%s' for certificate
+unable to set private key file: '%s' type %s
+curl user interface
+unable do create OpenSSL user-interface method
+failed to load private key from crypto engine
+unable to set private key
+crypto engine not set, can't load private key
+file type P12 for private key not supported
+not supported file type for private key
+unable to create an SSL structure
+Private key does not match the certificate public key
+failed setting cipher list: %s
+failed setting TLS 1.3 cipher suite: %s
+Unable to set SRP user name
+failed setting SRP password
+failed setting SRP cipher list
+error setting certificate verify locations:
+  CAfile: %s
+  CApath: %s
+error loading CRL file: %s
+error signaled by ssl ctx callback
+SSL: couldn't create a context (handle)!
+SSL: SSL_set_session failed: %s
+SSL: SSL_set_fd failed: %s
+SSL connection timeout
+openssl
+Unrecognized parameter value passed via CURLOPT_SSLVERSION
+CURL_SSLVERSION_MAX incompatible with CURL_SSLVERSION
+CURL_SSL_BACKEND
+;sha256//
+-----BEGIN PUBLIC KEY-----
+-----END PUBLIC KEY-----
+multi
+aeabi
+ARM926EJ-S
+.shstrtab
+.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rel.dyn
+.rel.plt
+.init
+.text
+.fini
+.rodata
+.ARM.exidx
+.eh_frame
+.init_array
+.fini_array
+.data.rel.ro
+.dynamic
+.data
+.ARM.attributes
