@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html>
+<title>Directory listing for /</title>
+<body>
+<h2>Directory listing for /</h2>
+<hr>
+<ul>
+<li><a href=".git/">.git/</a>
+<li><a href=".gitignore">.gitignore</a>
+<li><a href="curl-strings.out">curl-strings.out</a>
+<li><a href="libcurl.dump">libcurl.dump</a>
+<li><a href="libcurl.so">libcurl.so</a>
+<li><a href="libcurl_strings.out">libcurl_strings.out</a>
+<li><a href="makefile">makefile</a>
+<li><a href="requestor.c">requestor.c</a>
+<li><a href="requestor.o">requestor.o</a>
+<li><a href="test">test</a>
+<li><a href="test.out">test.out</a>
+</ul>
+<hr>
+</body>
+</html>
