@@ -1,4 +1,23 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <signal.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <time.h>
+#include <syslog.h>
+#include <errno.h>
+#include <string.h>
+
+#include <stdbool.h>
+
+#define OK 0
+#define ERR_FORK 2
+#define ERR_CHDIR 8
+#define ERR_WTF 7
+#define ERR_SETSID 6
+
+#define DAEMON_NAME "test"
 
 
 static void _signal_handler(const int signal){
@@ -16,7 +35,9 @@ static void _signal_handler(const int signal){
 }
 
 static void _do_work(void) {
+
 	for(int i=0; true; i++) {
+
 		syslog(LOG_INFO, "iteration: %d", i);
 		sleep(1);
 	}
@@ -24,6 +45,8 @@ static void _do_work(void) {
 
 
 int main(void) {
+
+	const char * ERROR_FORMAT="the error %m";
 
 	openlog(DAEMON_NAME, LOG_PID | LOG_NDELAY | LOG_NOWAIT, LOG_DAEMON);
 	syslog(LOG_INFO, "starting sampled");

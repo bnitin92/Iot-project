@@ -1,10 +1,10 @@
 #!/bin/sh
 
-DAEMON_NAME="sampled"
+DAEMON_NAME="simpled"
 
 start() {
 	printf "Starting $DAEMON_NAME: "
-	/usr/sbin/$DAEMON_NAME
+	/home/nitin/buildroot-2019.02.3/iot-project/project3/$DAEMON_NAME
 	touch /var/lock/$DAEMON_NAME
 	echo "OK"
 }
