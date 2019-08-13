@@ -1,6 +1,6 @@
 #!/bin/sh
 
-DAEMON_NAME="simpled"
+DAEMON_NAME="simpled1"
 
 start() {
 	printf "Starting $DAEMON_NAME: "
